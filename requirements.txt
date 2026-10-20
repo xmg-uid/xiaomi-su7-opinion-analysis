@@ -1,0 +1,26 @@
+# 基础依赖（多数模块都会用到）
+pandas>=1.3
+numpy>=1.21
+matplotlib>=3.5
+seaborn>=0.11
+scikit-learn>=1.0
+scipy>=1.7
+jieba>=0.42
+wordcloud>=1.8
+snownlp>=0.12
+
+# 网络请求与解析
+requests>=2.25
+beautifulsoup4>=4.9
+
+# 以下为部分模块所需的较重依赖，按需取消注释安装：
+# bertopic>=0.15
+# sentence-transformers>=2.0
+# umap-learn>=0.5
+# xgboost>=1.6
+# gensim>=4.0
+# torch>=1.12
+# transformers>=4.20
+# tensorflow>=2.9
+# DrissionPage>=3.0
+# afinn>=0.1

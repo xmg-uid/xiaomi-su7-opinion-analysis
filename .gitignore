@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# 大数据文件（如不需要上传动辄数十 MB 的 CSV，可取消注释）
+# 程序代码及数据/**/数据及结果/*.csv
+# 程序代码及数据/**/数据及结果/*.xlsx
